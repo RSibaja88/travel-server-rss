@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RSibaja88/travel-server-rss/issues"
   },
-  "homepage": "https://github.com/RSibaja88/travel-server-rss#readme"
+  "homepage": "https://github.com/RSibaja88/travel-server-rss#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
